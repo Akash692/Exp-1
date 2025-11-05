@@ -39,8 +39,8 @@ Design the database with tables for Customer, Account, and Transaction.
 <img width="1028" height="902" alt="Screenshot 2025-11-04 104508" src="https://github.com/user-attachments/assets/bc291511-8c23-45d5-af8c-a66c245d679e" />
 
 
-Activity Diagram
-<img width="599" height="850" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/a103cd7d-e5e9-4cad-96cf-971666d56874" />
+Activity Diagram 
+<img width="1044" height="847" alt="Screenshot 2025-11-05 082826" src="https://github.com/user-attachments/assets/e53ec164-0484-4e9e-bb6a-8bbc398ac219" />
 
 
 
