@@ -40,7 +40,7 @@ Design the database with tables for Customer, Account, and Transaction.
 
 
 Activity Diagram
-<img width="897" height="885" alt="Screenshot 2025-11-04 105713" src="https://github.com/user-attachments/assets/d790efb4-e50a-433e-84df-17e44d3d598b" />
+<img width="599" height="850" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/a103cd7d-e5e9-4cad-96cf-971666d56874" />
 
 
 
