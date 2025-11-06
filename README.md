@@ -5,28 +5,49 @@ To draw the UML diagram for ATM and Banking System.
 
 # SRS (Procedure):
 
-## Step 1: Problem Identification
+1. Class Diagram
+Identify classes with attributes and methods.
 
-The main problem is the need for a fast, secure, and automated system that allows customers to perform banking transactions (like withdrawal, deposit, and fund transfer) without depending on bank staff.
+Define relationships (association, generalization, aggregation).
 
-## Step 2: Requirement Analysis
+Use class boxes and connectors.
 
-Identify user needs (customer, admin, staff).      
-Define functional requirements: login, balance check, withdrawal, deposit, transfer, PIN change.      
-Define non-functional requirements: speed, security, reliability, and usability.      
+2. Use Case Diagram
+Identify actors and use cases.
 
-## Step 3: System Design
+Draw actors outside, use cases inside the system boundary.
 
-Draw UML diagrams to represent the system:      
-Use Case Diagram      
-Class Diagram      
-Activity Diagram      
-Sequence Diagram      
-Communication Diagram      
-Package Diagram      
-Design the database with tables for Customer, Account, and Transaction.  
+Connect actors to use cases; use <>, <> if needed.
 
+3. Activity Diagram
+Identify activities, decisions, start and end nodes.
 
+Use flow arrows, decision diamonds, and activity boxes.
+
+Represent process flow clearly.
+
+4. Package Diagram
+Group related classes into packages.
+
+Draw packages using folder-like symbols.
+
+Show dependencies between packages with dashed arrows.
+
+5. Sequence Diagram
+Identify objects and message sequence.
+
+Draw lifelines vertically.
+
+Use horizontal arrows for messages (in order from top to bottom).
+
+Show activation bars if needed.
+
+6. Communication Diagram
+Identify objects and interactions.
+
+Represent objects as boxes connected by lines.
+
+Label messages with sequence numbers and direction arrows
 
 # UML DIAGRAMS:
 
